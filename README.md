@@ -74,3 +74,4 @@ dev_dependencies:
 flutter packages pub run build_runner build
 
 //执行成功后，会自动生成user.g.dart文件，里面实现了User类的_$UserFromJson和_$UserToJson这两个方法。
+
